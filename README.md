@@ -2,9 +2,9 @@
 
 # Expo Drawer Navigation - Complete Guide
 
-![SatinderNavigation - Drawer-Navigation](image.png)
+![SatinderNavigation - Drawer-Navigation](./assets/images/image.png)
 
-![SatinderNavigation - User Profile Screen](image-1.png)
+![SatinderNavigation - User Profile Screen](./assets/images/image-1.png)
 
 A comprehensive guide to implementing drawer navigation in Expo using Expo Router and React Navigation.
 
