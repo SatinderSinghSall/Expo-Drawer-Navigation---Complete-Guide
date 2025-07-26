@@ -1,18 +1,16 @@
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 import { Drawer } from "expo-router/drawer";
+import CustomDrawerContent from "@/components/CustomDrawerContent";
 import { Ionicons } from "@expo/vector-icons";
 
 export default function RootLayout() {
   return (
     <GestureHandlerRootView style={{ flex: 1 }}>
       <Drawer
+        drawerContent={CustomDrawerContent}
         screenOptions={{
           drawerActiveTintColor: "#2196F3",
           drawerInactiveTintColor: "#757575",
-          drawerLabelStyle: {
-            marginLeft: 0,
-            fontSize: 16,
-          },
           headerStyle: {
             backgroundColor: "#2196F3",
           },
