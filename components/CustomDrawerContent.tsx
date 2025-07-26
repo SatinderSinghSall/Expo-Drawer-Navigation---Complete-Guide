@@ -34,8 +34,8 @@ export default function CustomDrawerContent(
         <View style={styles.avatar}>
           <Ionicons name="person" size={40} color="#fff" />
         </View>
-        <Text style={styles.username}>John Doe</Text>
-        <Text style={styles.email}>john.doe@example.com</Text>
+        <Text style={styles.username}>Satinder Singh Sall</Text>
+        <Text style={styles.email}>satindersinghsall111@gmail.com</Text>
       </View>
 
       {/* Navigation Items */}
